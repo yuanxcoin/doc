@@ -44,6 +44,22 @@ For you to run a stake in your ubuntu wallet using the CLI wallet, run the gyuan
 ./gyuanxd --service-node --storage-server-port 11119 --service-node-public-ip 80.168.24.5
 ```
 
+Remember to replace `80.168.24.5` with your own IP address
 
+Once it is running allow it to fully, the enter the below command
+
+```python
+prepare_registration
+```
+
+The daemon will output a command for us to run looking similar to:
+
+```python
+register_service_node 4294967292 T6TCCyDgjjbddtzwNGryRJ5HntgGYvqZTagBb2mtHhn7WWz7i5JDeqhFiHqu7ret56411ZJS7Thfeis718bVteBZ2UA6Y7G2d 4294967292 100.000000000 1535677391 ec3895ea70a4a91b5ec4b5e1df96a45e07046f1fb0123c754d98fb2d70f4529d 5bb35d7b8ab1acb943bc47913ada8f9d2e6d6e22264e57484a04c1bbfd461f0ee2e5435454cd9b7059b221eb506ce9ea4537ddd9faf1f1757e0ef611a41c0609
+```
+
+Copy the above code and go to your desktop wallet 
+
+![electron stake step](https://raw.githubusercontent.com/yuanxcoin/images/main/chinese/registration.jpg "Electron Stake Step 6")
 
 
