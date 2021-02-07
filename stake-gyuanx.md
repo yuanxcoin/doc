@@ -17,3 +17,7 @@ Please keep in mind, one can only stake via an open pool with the GUI wallet. If
 Also, this best done with a primary wallet address that is not receiving mining transactions. A separate primary wallet for Staking is recommended.
 
 1) Open the wallet, enter your password, and let it fully sync to the latest blockheight.
+
+![electron stake step](https://gyuan.online/resources/assets/electron-stake-step1.JPG "Electron Stake Step 1")
+
+
