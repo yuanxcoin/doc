@@ -18,6 +18,6 @@ Also, this best done with a primary wallet address that is not receiving mining 
 
 1) Open the wallet, enter your password, and let it fully sync to the latest blockheight.
 
-![electron stake step](https://gyuan.online/resources/assets/electron-stake-step1.JPG "Electron Stake Step 1")
+![electron stake step](https://raw.githubusercontent.com/yuanxcoin/images/main/chinese/electron-stake-step1.jpg "Electron Stake Step 1")
 
 
