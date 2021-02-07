@@ -1,46 +1,7 @@
-什么是Gyuanx
- 你需要知道的 :
-
-Gyuanx连接世界各地的各个节点，从而创建了一个更大的网络。快速，私密且安全。 Gyuanx使用加密技术来屏蔽发送和接收地址以及交易量。
-Gyuanx使您能够轻松地与世界各地的不同用户进行通信，它遵循了Monero和Oxen项目的概念。
-默认情况下，每笔Gyuanx交易都会混淆发送和接收地址以及交易金额。这种永远在线的隐私意味着每个Gyuanx用户的活动都会增强其他所有用户的隐私。
-Gyuanx是可替代的。由于混淆，Gyuanx不会因参与以前的交易而受到污染。 Gyuanx将始终被接受而不受控制。
-您可以花时间知道别人看不到您的余额或跟踪您的活动。 Gyuanx在日常交易中遵循相同的隐私概念，并具有更好的责任制结构。 Gyuanx为您提供了广泛的技术供您使用，让您开始使用我们的台式机钱包以及适用于各种操作系统的控制台钱包。
-Gyuanx钱包可用于各种平台，并且包含您立即使用Gyuanx所需的一切。使用Gyuanx，您可以与它进行交易，使用它来购买任何特定的商品
-Gyuanx同时使用Oxen和Monero源代码，因为它们对交易具有很高的保密性。 Monero是CryptoNote协议的演进，它使用了环签名，隐身地址和RingCT，使用户能够签名交易并混淆金额，同时保持合理的可否认性。
-
-规格
-名称：Gyuanx
-代码：Gyuanx
-算法：股权证明[脉冲]
-供应：1800万
-当前发行量：553150 Gyuanx
-块确认：60块
-时间：60秒
-块大小限制：300kB / 600kB抵押
-要求：1000 GYUANX
-P2P：11011
-RPC ：11013
-Premine：No premine
-
-在涉及隐私和审查制度的交易方面，Gyuanx是最好的。
-Gyuanx硬币是Monero项目和更名的Oxen项目的分支。Gyuanx提供了更好的隐私，并使用户在区块链交易期间获得完全的匿名性，这使gyuanx的用户都可以在广泛的隐私范围内保持完全匿名。隐藏的是钱包地址和余额。尽管它既是牛又是门罗币的叉子，但gyuanx具有不同的变体和功能。
-
-Gyuanx使用加密技术来屏蔽发送和接收地址以及交易量。
-
-Gyuanx交易是机密且无法追踪的。
-默认情况下，gyuanx网络中的所有交易均为公开交易，其中不包括公开显示的发送和接收地址。这种永远在线的隐私意味着每个Gyuanx用户的活动都会增强其他所有用户的隐私。
-
-像monero和oxen这样的Gyuanx是可互换的。Gyuanx硬币不会因参与以前的交易而受到污染。这意味着Gyuanx将始终被接受而不会受到审查的风险。
-
-
-Gyuanx力求使更多的社区成员参与更大品牌的发展。
-我们正在寻找更多的开发商来为Gyuanx项目的发展做出贡献。加入我们的不和谐，电报和推特手柄。
-
-Gyuanx将发布基于隐私和加密使用的任何研究工作，这将有助于gyuanx和其他隐私硬币提高安全性。
-
-Gyuanx是一种加密货币，它允许在世界任何地方进行快速，廉价的付款。
-没有多日的保留期，也没有欺诈性退款的风险。免受“资本管制”的影响是安全的-这些措施在经历经济不稳定的国家中有时会限制传统货币的流通，有时甚至达到极大程度。
-
-Gyuanx服务节点（也称为GNODES）在gyuanx网络上进行了繁重的工作，并为此付出了可观的经济回报。
-使用服务节点，您可以托管不同的服务。运行gnode时，回报是巨大的，因为您得到报酬以使Internet变得更加私密
+Gyuanx connects various nodes around the world, creating a bigger network. It’s fast, private, and secure. Gyuanx uses cryptography to shield sending and receiving addresses, as well as transacted amounts.
+Gyuanx gives you the ability to communicate with different users around the world with less difficulties and it follows the concepts of both Monero and Oxen projects.
+Every Gyuanx transaction, by default, obfuscates sending and receiving addresses as well as transacted amounts. This always-on privacy means that every Gyuanx user’s activity enhances the privacy of all other users.
+Gyuanx is fungible. By virtue of obfuscation, Gyuanx cannot become tainted through participation in previous transactions. Gyuanx will always be accepted without being controlled.
+You can spend knowing that others cannot see your balances or track your activity. Gyuanx follows the same concepts of privacy for daily transactions and has a better accountabilities structures. Gyuanx gives you a vast technology to use from, to get you started with both our desktop wallets as well as the console wallets for various operating systems.
+The Gyuanx wallets are available for a variety of platforms and contain everything you need to use Gyuanx immediately. With Gyuanx, you can trade with it, use it to purchase any particular goods
+Gyuanx uses both the Oxen and Monero source code because of their high level of privacies it gives to transactions. Monero is an evolution on the CryptoNote protocol, which uses ring signatures, stealth addresses, and RingCT, giving users the ability to sign transactions and obfuscate amounts while maintaining plausible deniability.
