@@ -1,3 +1,5 @@
+
+![Gyuanx](https://raw.githubusercontent.com/yuanxcoin/images/main/Webp.net-resizeimage%20-%202021-01-10T105904.316.png)
 Gyuanx connects various nodes around the world, creating a bigger network. It’s fast, private, and secure. Gyuanx uses cryptography to shield sending and receiving addresses, as well as transacted amounts.
 Gyuanx gives you the ability to communicate with different users around the world with less difficulties and it follows the concepts of both Monero and Oxen projects.
 Every Gyuanx transaction, by default, obfuscates sending and receiving addresses as well as transacted amounts. This always-on privacy means that every Gyuanx user’s activity enhances the privacy of all other users.
