@@ -10,34 +10,60 @@ Gyuanx uses both the Oxen and Monero source code because of their high level of 
 ## Specifications
 
 Name: Gyuanx
+
 Ticker: Gyuanx
+
 Algorithm: proof of stake [pulse]
+
 Supply: 18 million
+
 Current Circulations: 178367.780946566112 Gyuanx
+
 Block confirmations: 60 blocks
+
 Block time: 60 seconds
+
 Block size limit: 300kB/600kB
+
 Staking Requirement: 1000 GYUANX
+
 P2P: 11011
+
 RPC: 11013
+
 Premine: No premine
 
 ## Links:
+
 website: https://gyuan.online
+
 Medium: https://gyuanxcoin.medium.com
+
 explorer: https://explorer.gyuan.online
+
 Source: https://github.com/yuanxcoin/gyuanx-core
+
 Wallet Console: https://github.com/yuanxcoin/gyuanx-core/releases/tag/v9.0.0
+
 Moblie Wallet: https://github.com/yuanxcoin/gyuanx-core/releases/download/v9.0.0/gyuanx-mobile.apk
+
 Chinese Moblie Wallet: https://github.com/yuanxcoin/gyuanx-core/releases/download/v9.0.0/gyuanx-chinese-mobile.apk
+
 Storage: https://github.com/yuanxcoin/gyuanx-storage-server/releases
+
 GUI Wallet: https://github.com/yuanxcoin/gyuanx-electron-gui-wallet/releases/tag/v1.5.7
+
 Docker gyuanxd: docker pull gyuanx/gyuanx
+
 Docker gyuanx Storage: docker pull gyuanx/gyuanx-storage
+
 Discord: https://discord.gg/U9E3a4fuP5
+
 Telegram: https://t.me/gyuanx
+
 Twitter: https://twitter.com/Gyuanx_io
 
 ## Masternode Quick Setup
+
 Masternode: https://github.com/yuanxcoin/servicenode-setup
 
