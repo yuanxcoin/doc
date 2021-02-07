@@ -6,7 +6,9 @@ You can spend knowing that others cannot see your balances or track your activit
 The Gyuanx wallets are available for a variety of platforms and contain everything you need to use Gyuanx immediately. With Gyuanx, you can trade with it, use it to purchase any particular goods
 Gyuanx uses both the Oxen and Monero source code because of their high level of privacies it gives to transactions. Monero is an evolution on the CryptoNote protocol, which uses ring signatures, stealth addresses, and RingCT, giving users the ability to sign transactions and obfuscate amounts while maintaining plausible deniability.
 
-Specifications
+
+## Specifications
+
 Name: Gyuanx
 Ticker: Gyuanx
 Algorithm: proof of stake [pulse]
@@ -19,7 +21,8 @@ Staking Requirement: 1000 GYUANX
 P2P: 11011
 RPC: 11013
 Premine: No premine
-Links:
+
+## Links:
 website: https://gyuan.online
 Medium: https://gyuanxcoin.medium.com
 explorer: https://explorer.gyuan.online
@@ -35,6 +38,6 @@ Discord: https://discord.gg/U9E3a4fuP5
 Telegram: https://t.me/gyuanx
 Twitter: https://twitter.com/Gyuanx_io
 
-Masternode Quick Setup
+## Masternode Quick Setup
 Masternode: https://github.com/yuanxcoin/servicenode-setup
 
