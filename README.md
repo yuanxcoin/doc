@@ -37,35 +37,35 @@ Premine: No premine
 
 ## Links:
 
-website: https://gyuan.online
+website: [https://gyuan.online](https://gyuan.online)
 
-Medium: https://gyuanxcoin.medium.com
+Medium: [https://gyuanxcoin.medium.com](https://gyuanxcoin.medium.com)
 
-explorer: https://explorer.gyuan.online
+explorer: [https://explorer.gyuan.online](https://explorer.gyuan.online)
 
-Source: https://github.com/yuanxcoin/gyuanx-core
+Source: [https://github.com/yuanxcoin/gyuanx-core](https://github.com/yuanxcoin/gyuanx-core)
 
-Wallet Console: https://github.com/yuanxcoin/gyuanx-core/releases/tag/v9.0.0
+Wallet Console: [https://github.com/yuanxcoin/gyuanx-core/releases/tag/v9.0.0](https://github.com/yuanxcoin/gyuanx-core/releases/tag/v9.0.0)
 
-Moblie Wallet: https://github.com/yuanxcoin/gyuanx-core/releases/download/v9.0.0/gyuanx-mobile.apk
+Moblie Wallet: [https://github.com/yuanxcoin/gyuanx-core/releases/download/v9.0.0/gyuanx-mobile.apk](https://github.com/yuanxcoin/gyuanx-core/releases/download/v9.0.0/gyuanx-mobile.apk)
 
-Chinese Moblie Wallet: https://github.com/yuanxcoin/gyuanx-core/releases/download/v9.0.0/gyuanx-chinese-mobile.apk
+Chinese Moblie Wallet: [https://github.com/yuanxcoin/gyuanx-core/releases/download/v9.0.0/gyuanx-chinese-mobile.apk](https://github.com/yuanxcoin/gyuanx-core/releases/download/v9.0.0/gyuanx-chinese-mobile.apk)
 
-Storage: https://github.com/yuanxcoin/gyuanx-storage-server/releases
+Storage: [https://github.com/yuanxcoin/gyuanx-storage-server/releases](https://github.com/yuanxcoin/gyuanx-storage-server/releases)
 
-GUI Wallet: https://github.com/yuanxcoin/gyuanx-electron-gui-wallet/releases/tag/v1.5.7
+GUI Wallet: [https://github.com/yuanxcoin/gyuanx-electron-gui-wallet/releases/tag/v1.5.7](https://github.com/yuanxcoin/gyuanx-electron-gui-wallet/releases/tag/v1.5.7)
 
 Docker gyuanxd: docker pull gyuanx/gyuanx
 
 Docker gyuanx Storage: docker pull gyuanx/gyuanx-storage
 
-Discord: https://discord.gg/U9E3a4fuP5
+Discord: [https://discord.gg/U9E3a4fuP5](https://discord.gg/U9E3a4fuP5)
 
-Telegram: https://t.me/gyuanx
+Telegram: [https://t.me/gyuanx](https://t.me/gyuanx)
 
-Twitter: https://twitter.com/Gyuanx_io
+Twitter: [https://twitter.com/Gyuanx_io](https://twitter.com/Gyuanx_io)
 
 ## Masternode Quick Setup
 
-Masternode: https://github.com/yuanxcoin/servicenode-setup
+Masternode: [https://github.com/yuanxcoin/servicenode-setup](https://github.com/yuanxcoin/servicenode-setup)
 
